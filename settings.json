@@ -4,24 +4,20 @@
     },
 
     "category": {
-        
         "channel": {
             "name": "Informacje szkolne",
             "type": "category"
         }
-
     },
 
     "channels": {
 
         "replacements": {
-
             "channel": {
                 "name": "zastępstwa",
                 "type": "replacements"
             }
-
         }
-
+        
     }
 }

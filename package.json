@@ -19,6 +19,8 @@
   "homepage": "https://github.com/pti-main/discord-module#readme",
   "dependencies": {
     "discord.js": "^11.5.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "util": "^0.12.1"
   }
 }
