@@ -1,1 +1,6 @@
-there will be repository for discord-module on pti-main-page
+---------------
+generate secret.json:
+    {
+        key: "<yours discord bot secret key>",
+        oauth: "<yours discord bot oauth link>
+    }
